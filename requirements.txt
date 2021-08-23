@@ -27,3 +27,6 @@ six>=1.14
 joblib
 memoized-property
 termcolor
+
+#libraries
+git+https://github.com/iavaq/ia_first_package
